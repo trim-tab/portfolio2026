@@ -8,7 +8,7 @@ import {usePathname} from "next/navigation"
 const routes = [
   {
     label: 'Blog',
-    path: '/app/Blog',
+    path: '/app/blog',
   },
   {
     label: "BB8",
