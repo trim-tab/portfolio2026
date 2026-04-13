@@ -37,6 +37,10 @@ export default function Photo() {
   return (
     <div className=" top-0 max-w-250 font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
+         <video width="360" height="640" controls>
+          <source src="/images/bb8/bb8.mp4" type="video/quicktime" />
+           Your browser does not support the video tag.
+          </video>
         {imageList.map((name) => (
           <Gallery key={name} imageName={name} />
         ))}
