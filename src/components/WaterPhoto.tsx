@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 
 const imageList: string[] = [];
-for (let i = 1 ; i < 5; i++) {
+for (let i = 1 ; i < 6; i++) {
   if (i < 10) {
     imageList.push("00" + i);
   } else if (i < 100) imageList.push("0" + i);
