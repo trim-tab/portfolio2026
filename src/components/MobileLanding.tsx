@@ -19,17 +19,17 @@ export default function MobileHero() {
       <ul>
         <li className='py-1'>
       <button className="w-full bg-slate-800 text-white py-7 px-4  ">
-          <Link className="md:text-[1em] sm:text-[1em]" href="../app/blog">Blog</Link>
+          <Link className="md:text-[1em] sm:text-[1em]" href="./blog">Blog</Link>
       </button>
         </li>
         <li className='py-.3'>
           <button className="w-full bg-slate-800 text-white py-7 px-4 ">
-            <Link className="md:text-[1em] sm:text-[1em]"href="./app/Sites">Sites</Link>
+            <Link className="md:text-[1em] sm:text-[1em]"href="./Sites">Sites</Link>
           </button>
         </li>
         <li className='py-1'>
           <button className="w-full bg-slate-800 text-white py-7 px-4 ">
-          <Link className="md:text-[1em] sm:text-[1em]"href="./app/Water">Water</Link>
+          <Link className="md:text-[1em] sm:text-[1em]"href="./Water">Water</Link>
           </button>
         </li>
         <li className='py-.3'>

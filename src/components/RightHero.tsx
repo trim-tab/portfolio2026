@@ -12,15 +12,15 @@ function RightHero() {
           <ul>
             <li className="group flex justify-end hover:text-[#fff] hover:italic transition duration-150 ease-in">
               <TrimIcon className="hidden fill-[#fff] hover:fill-[#fff] group-hover:flex h-50" />
-              <Link className="md:text-[1em] sm:text-[.3em]" href="../app/blog">Blog</Link>
+              <Link className="md:text-[1em] sm:text-[.3em]" href="./blog">Blog</Link>
             </li>
             <li className=" group flex justify-end hover:text-[#fff] hover:italic transition duration-150 ease-in">
               <TrimIcon className="hidden fill-[#fff] hover:fill-[#fff] group-hover:flex h-50" />
-              <Link className="md:text-[1em] sm:text-[.3em]"href="./app/Sites">Sites</Link>
+              <Link className="md:text-[1em] sm:text-[.3em]"href="./Sites">Sites</Link>
             </li>
             <li className=" group flex  justify-end hover:text-[#fff] hover:italic transition duration-150 ease-in">
               <TrimIcon className="hidden fill-[#fff] hover:fill-[#fff] group-hover:flex h-50" />
-              <Link className="md:text-[1em] sm:text-[.3em]" href="./app/Water">Water</Link>
+              <Link className="md:text-[1em] sm:text-[.3em]" href="./Water">Water</Link>
             </li>
             <li className="group flex  justify-end hover:text-[#fff] hover:italic transition duration-150 ease-in">
               <TrimIcon className="hidden fill-[#fff] hover:fill-[#fff] group-hover:flex h-50" />
