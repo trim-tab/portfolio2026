@@ -20,6 +20,10 @@ I couldn't put my finger on what exactly was happening, but then I remembered a 
 
 </p>
 <p className="pb-5">
+
+  It was only days later when he found information using pi units to solve complicated problems that he conceded the point.  That he had to look for a reason to have that be useful before he could think it could be possible.
+<p className="pb-5">
+</p>
 Our discussion was about units.  I have a penchant for flexible thinking.  The most common thought of questions to occur to me is most often "why not?" Say you took 1 and made it 1.3 it seemed to me entirely plausible that there could be times that that was useful. I proposed that there could be an instance where adjusting to fractional units could be possible. He dug in taking an aggressively defensive stance that seemed disproportionate to the topic at hand.  I couldn't understand why he was getting so upset.  Then I realized it.  I was attacking a cornerstone of his belief system, introducing chaos into his world ruled by nice neat integers.  
 </p>
 <p>
