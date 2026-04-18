@@ -17,7 +17,7 @@ export default function page() {
 
   </p>
   <p className="pb-5">
-  I couldn't put my finger on what exactly was happening, but then I remembered a discussion I was having with an engineer that, quicker that I could realize, it became a disagreement, that, given room to breath, burst almost instantaneously into an argument.  It was a lesson that being right and having that be useful are two separate things.
+  I couldn't put my finger on what exactly was happening, but then I remembered a discussion I was having with an engineer that, quicker that I could realize, it became a disagreement, that, given room to breathe, burst almost instantaneously into an argument.  It was a lesson that being right and having that be useful are two separate things.
 
 </p>
 <p className="pb-5">
