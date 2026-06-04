@@ -4,7 +4,32 @@ import Image from 'next/image'
 export default function post() {
 
   return (
+
     <>
+    <div className="m-10">
+    <div>post</div>
+    <h3>June 3rd, 2026 5:29</h3> 
+    
+    <p>
+      My esteemed cohort and I got together and thought the easiest way to tackle an 
+      approach would be to start with a foamcore model. After a very loose elevation sketch I
+      started glueing up facades. 
+    </p>
+    <Image 
+src="/images/casita/20260404/5.jpg"
+ alt="Elevation Sketch"
+      width={500}
+      height={500}
+
+    />
+     <Image 
+src="/images/casita/20260404/6.jpg"
+ alt="Elevation Sketch"
+      width={500}
+      height={500}
+
+    />
+</div>
     <div className="m-10">
     <div>post</div>
     <h3>April 4th, 2026 20:14</h3>
@@ -33,7 +58,7 @@ rack and pinion mechanisms
 </p><p className='mb-2'>
 <Image 
 src="/images/casita/20260404/3.jpg"
- alt="Animated GIF"
+ alt="casita3"
       width={500}
       height={500}
       unoptimized={true} // Essential to keep the animation
@@ -86,4 +111,5 @@ price analysis (less servos | motors == good)
 </div>
  </>  
   )
+
 }
