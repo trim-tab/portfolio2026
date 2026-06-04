@@ -13,7 +13,7 @@ export default function post() {
     <p>
       My esteemed cohort and I got together and thought the easiest way to tackle an 
       approach would be to start with a foamcore model. After a very loose elevation sketch I
-      started glueing up facades. 
+      started gluing up facades. 
     </p>
     <Image 
 src="/images/casita/20260404/5.jpg"
