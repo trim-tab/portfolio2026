@@ -41,7 +41,7 @@ Casita! Specifically The Casita from the major motion picture Encanto.
 </p> 
 <div className="w-full max-w-4xl mx-auto aspect-video">
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aA_RNbJszis?si=SoqQ6EUVRWlcJWwE&amp;controls=0" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
+<iframe  className="w-full h-full rounded-lg"  src="https://www.youtube.com/embed/aA_RNbJszis?si=SoqQ6EUVRWlcJWwE&amp;controls=0" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
 </div>
 <p className='mb-4'>After a little palaver at our favorite, neighborhood, conglomerate coffee-sita, we were able to come to decisions on not very much at all. Some key targets, however, were set in our sights.
 </p><p className='mb-4'>
