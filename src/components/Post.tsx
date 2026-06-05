@@ -22,11 +22,10 @@ src="/images/casita/20260404/5.jpg"
       height={500}
 
     />
-     <Image 
+     <Image className="w-full h-full rounded-lg"
 src="/images/casita/20260404/6.jpg"
  alt="Elevation Sketch"
-      width={500}
-      height={500}
+    
 
     />
 </div>
